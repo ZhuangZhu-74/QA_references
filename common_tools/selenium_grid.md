@@ -1,6 +1,6 @@
 selenium grid
 
-分布式测试，多种浏览器和OS组合的需求。
+用于分布式测试，适用于多种浏览器和OS组合的需求。
 
 ## 官网
 https://www.selenium.dev/
@@ -9,6 +9,10 @@ https://www.selenium.dev/
 https://www.selenium.dev/documentation/en/grid/
 
 ## github
+https://github.com/SeleniumHQ/selenium
+
+## github wiki
+https://github.com/SeleniumHQ/selenium/wiki
 
 ## 下载地址（国外）
 https://www.selenium.dev/downloads/
