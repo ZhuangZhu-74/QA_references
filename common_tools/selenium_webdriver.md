@@ -7,6 +7,10 @@ https://www.selenium.dev/
 https://www.selenium.dev/documentation/en/
 
 ## github
+https://github.com/SeleniumHQ/selenium
+
+## github wiki
+https://github.com/SeleniumHQ/selenium/wiki
 
 ## 下载地址（国外）
 https://www.selenium.dev/downloads/
