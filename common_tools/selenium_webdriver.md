@@ -18,10 +18,10 @@ https://www.selenium.dev/downloads/
 ## 镜像源（国内）
 https://npm.taobao.org/mirrors/selenium/
 
-- executable driver 
- - [Firefox Chrome Opera]https://npm.taobao.org/mirrors/ 同名链接
- - IE： 镜像源 -> 版本号文件夹 -> `IEDriverServer_*.zip`
- - [Microsoft Edge](https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/#downloads)
+## WebDriver for browser (**注意driver版本和浏览器要匹配**)
+- Firefox Chrome Opera: 进入 https://npm.taobao.org/mirrors/ 找对应的同名链接
+- IE: 镜像源（国内） -> 版本号文件夹 -> `IEDriverServer_*.zip`
+- [Microsoft Edge](https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/#downloads)
 
 ## 安装
 - Python
