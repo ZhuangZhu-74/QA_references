@@ -23,6 +23,6 @@ https://jmeter.apache.org/download_jmeter.cgi
 
 [JMeters-plugins.org](https://jmeter-plugins.org/)
 
-[我整理的 JMeter jsr223 beanshell 参考信息](https://github.com/ZhuangZhu-74/open/tree/master/JMeter)
+[我整理的 JMeter JSR223 Beanshell 参考信息](../Notes/jsr223_beanshell_notes)
 
 [blazemeter 转换器](https://converter.blazemeter.com/)
