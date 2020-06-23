@@ -11,4 +11,9 @@
   - [JMeter](common_tools/JMeter.md)
   - [Selenium Grid](common_tools/selenium_grid.md)
   - [Selenium WebDriver](common_tools/selenium_webdriver.md)
+- 其他
+  - 快捷键
+    - [Windows 快捷键](https://support.microsoft.com/zh-cn/help/12445/windows-keyboard-shortcuts)
+    - [浏览器通用快捷键](https://www.howtogeek.com/114518/47-keyboard-shortcuts-that-work-in-all-web-browsers/)
+    - [Chrome 快捷键](https://www.shortcuts-keyboard.com/chrome-shortcuts-keyboard/)
 - [模板](template.md)
