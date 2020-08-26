@@ -11,6 +11,7 @@
   - [JMeter](common_tools/JMeter.md)
   - [Selenium Grid](common_tools/selenium_grid.md)
   - [Selenium WebDriver](common_tools/selenium_webdriver.md)
+  - [Appium 环境布置](common_tools/Appium.md)
 - 其他
   - 快捷键
     - [Windows 快捷键](https://support.microsoft.com/zh-cn/help/12445/windows-keyboard-shortcuts)
