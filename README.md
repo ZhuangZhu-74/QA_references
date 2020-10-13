@@ -4,7 +4,7 @@
 - [Java](Java.md)
   - Java_builtin
   - [Java 3rd lib](java_3rd_lib/)
-- [python](python.md)
+- [Python](python.md)
   - python_builtin
   - [python 3rd lib](python_3rd_lib/)
 - [常用工具](common_tools/)
@@ -12,6 +12,7 @@
   - [Selenium Grid](common_tools/selenium_grid.md)
   - [Selenium WebDriver](common_tools/selenium_webdriver.md)
   - [Appium 环境布置](common_tools/Appium.md)
+- [Linux 性能相关命令（监控、分析、基准测试、调优等）图表总结](http://www.brendangregg.com/linuxperf.html)
 - 其他
   - 快捷键
     - [Windows 快捷键](https://support.microsoft.com/zh-cn/help/12445/windows-keyboard-shortcuts)
